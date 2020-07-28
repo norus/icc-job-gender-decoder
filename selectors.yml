@@ -1,0 +1,9 @@
+job_title:
+    css: h1.entry-title
+    xpath: null
+    type: Text
+job_desc:
+    css: section.content-area
+    xpath: null
+    type: Text
+
